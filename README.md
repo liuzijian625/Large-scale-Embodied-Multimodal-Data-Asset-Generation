@@ -1,0 +1,1 @@
+# Large-scale-Embodied-Multimodal-Data-Asset-Generation
